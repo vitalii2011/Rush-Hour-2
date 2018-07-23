@@ -65,8 +65,8 @@
   <ExperimentalBuild_Description>Тест {0} включён.
 
 У этой сборки могут быть ошибки и проблемы, а также неполные функции, поскольку они предназначены только для тестирования. Подпишитесь на неэкспериментальную версию мода, если вы не собираетесь тестировать {0}.</ExperimentalBuild_Description>
-  <Incompatibility_Title>{0} - Incompatibility detected</Incompatibility_Title>
-  <Incompatibility_Description>There appears to be an issue overriding part of the game, likely due to another conflicting mod.
+  <Incompatibility_Title>{0} - Обнаружена несовместимость</Incompatibility_Title>
+  <Incompatibility_Description>Вероятно, что проблемы в игре из-за конфликта с другим модом.
 
-Some features have been disabled, but everything else will still work.</Incompatibility_Description>
+Некоторые функции отключены, но всё остальное будет работать.</Incompatibility_Description>
 </Localisation>
